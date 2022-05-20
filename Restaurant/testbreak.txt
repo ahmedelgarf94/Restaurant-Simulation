@@ -1,0 +1,15 @@
+FT  ID  AT  WT  ST
+3   1   1   0   1
+5   4   1   0   1
+5   2   1   0   1
+5   7   2   1   3
+7   10   2   3   5
+9   8   2   3   5
+9   9   2   3   5
+12   3   1   9   10
+15   5   1   10   11
+19   6   1   14   15
+Orders: 10 [Norm: 1, Veg: 3, VIP: 6]
+cooks: 3 [Norm: 1, Veg: 1, VIP: 1, injured: 0]
+Avg Wait = 4.3, Avg Serv = 5.7
+Urgent Orders: 4, Auto - promoted: 50%
